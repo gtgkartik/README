@@ -2,7 +2,7 @@
 - 👀 I’m good at HTML, CSS, Bootstrap(CSS Framework)
 - 🌱 I’m currently learning Python, BlockChain(Ethereum), JS, Tailwind
 - 💞️ I’m looking to collaborate on Python Projects and Blockchain
-- 📫 @gtgkartik my Twitter
+- 📫 @thisiskartik._ my Twitter
 
 <!---
 kartikkumar999/kartikkumar999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
