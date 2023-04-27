@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik
 - 👀 I’m good at HTML, CSS, Bootstrap(CSS Framework)
-- 🌱 I’m currently learning Python, BlockChain(Ethereum), JS, Tailwind
+- 🌱 I’m currently learning Python, ReactJS, Machine Learning
 - 💞️ I’m looking to collaborate on Python Projects and Blockchain
 - 📫 @thisiskartik._ my Twitter
 
